@@ -1,11 +1,11 @@
 {
-    "name": "elearning",
-    "short_name": "elearning",
+    "name": "btphongcse",
+    "short_name": "btphongcse",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "E-Learning",
+    "description": "Personal website",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
